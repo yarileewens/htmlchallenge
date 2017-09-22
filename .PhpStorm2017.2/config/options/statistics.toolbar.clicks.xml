@@ -1,8 +1,8 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="Run@NavBarToolbar" count="11" />
-      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="5" />
+      <entry action="Run@NavBarToolbar" count="12" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="6" />
     </counts>
   </component>
 </application>
