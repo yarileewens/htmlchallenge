@@ -1,8 +1,9 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="Run@NavBarToolbar" count="12" />
-      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="7" />
+      <entry action="Run@NavBarToolbar" count="14" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="10" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
     </counts>
   </component>
 </application>
